@@ -1,4 +1,4 @@
-# rouletteGame
+# Roulette 
 
 ![alt text](roulettepic.jpg)
 
