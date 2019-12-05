@@ -1,6 +1,6 @@
 # rouletteGame
 
-![alt text]()
+![alt text](roulettepic.jpg)
 
 
 
