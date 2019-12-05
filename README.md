@@ -1,5 +1,10 @@
 # rouletteGame
 
+![alt text]()
+
+
+
+
 Git clone and npm install in your terminal for usage :)
 
 This is a roulette game. Pick a color and bet a number! See if you win. 
